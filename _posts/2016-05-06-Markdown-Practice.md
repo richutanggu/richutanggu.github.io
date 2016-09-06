@@ -1,6 +1,4 @@
 ---
-title: First Shot
-auth: tanggu
 ---
 
 
